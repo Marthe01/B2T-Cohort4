@@ -9,7 +9,7 @@ function AddNewFruit(){
 	document.getElementById("FruitsH1").innerHTML = Fruits.join(" with ");
 }
 
-let Fruits = [" Apples", " Oranges ", " Kiwi "];
+let Fruits = [" apples", " oranges ", " kiwi "];
 document.getElementById("FruitsH1").innerHTML = Fruits.join(" with ");
 
 function AddNewFruit2(){
